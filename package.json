@@ -1,0 +1,26 @@
+{
+  "name": "ig_downloader_web",
+  "version": "1.0.0",
+  "description": "Instagram Image, Video Downloader",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CsepJ/IG_Downloader.git"
+  },
+  "keywords": [
+    "instagram"
+  ],
+  "author": "CsepJ",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/CsepJ/IG_Downloader/issues"
+  },
+  "homepage": "https://github.com/CsepJ/IG_Downloader#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
